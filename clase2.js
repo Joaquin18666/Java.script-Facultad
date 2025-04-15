@@ -8,3 +8,4 @@ console.log(NUMEROS)
 NUMEROS.pop()
 NUMEROS.shift()//remueve el primero
 NUMEROS.unshift('Javier')
+// Objeto literal
